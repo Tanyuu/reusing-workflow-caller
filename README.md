@@ -1,2 +1,2 @@
 # reusing-workflow-caller
-push-trigger: 2
+push-trigger: 3

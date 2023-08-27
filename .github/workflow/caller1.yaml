@@ -1,0 +1,6 @@
+name: caller1
+on: push
+jobs:
+  test1:
+    runs-on: windows-latest
+    uses: Tanyuu/reusing-workflows-runner/test1.yaml@main

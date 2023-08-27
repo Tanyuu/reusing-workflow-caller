@@ -1,5 +1,5 @@
 name: caller1
 on: push
 jobs:
-  caller 1-1:
+  caller1-1:
     uses: Tanyuu/reusing-workflows-runner/.github/workflows/runner1.yaml@main
